@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fontend web development.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me Hoseasims21@gmail.com
--     Currently employed a Busy Human! 
+-     Currently employed at Busy Human! 
 
 <!---
 HoseaSims/HoseaSims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
